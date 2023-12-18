@@ -10,7 +10,7 @@ comments: true
 
 <p class="mb-5">
   <img class="shadow-lg rounded-circle" src="{{site.baseurl}}/assets/images/avatar.png" alt="avatar" style="width: 300px;" /></p>
-<p>Hello! I'm Joanna. With over a decade of experience as a fashion designer, technical designer, and pattern maker in Los Angeles, I'm currently working as a freelance technical designer while studying full-time. During my free time, I run this blog. It's my space to share insights about fashion, pattern making, crafting, and sewing – things I'm passionate about. Join me in connecting with fellow fashion enthusiasts and anyone who loves a good sewing or crafting session. I hope you find something you like on the blog! 💗 </p>
+<p>Hello! I'm Joanna. With almost a decade of experience as a fashion designer and technical designer in Los Angeles, I'm currently working as a freelance technical designer while studying full-time. During my free time, I run this blog. It's my space to share insights about fashion, pattern making, crafting, and sewing – things I'm passionate about. Join me in connecting with fellow fashion enthusiasts and anyone who loves a good sewing or crafting session. I hope you find something you like on the blog! 💗 </p>
 
 <h4>Q & A</h4>
 
@@ -46,8 +46,21 @@ comments: true
 
 <p>💕Thank you for your support!💕 Your donation helps me to maintain and improve <a target="_blank" href="https://www.joannablumstudio.com/">Joanna Blüm Studio</a>.</p>
 
-<a target="_blank" href="https://www.buymeacoffee.com/joannablumstudio/" class="btn btn-secondary">Buy me a coffee</a>
+<a target="_blank" href="https://www.buymeacoffee.com/joannablumstudio/" class="btn btn-pink">Buy me a coffee</a>
 
 </div>
 </div>
 </div>
+
+<style>
+  .btn-pink {
+    background-color: #FF66C4;
+    color: white; /* You can adjust the text color accordingly */
+  }
+
+   .btn-pink:hover {
+    background-color: #FF99D8; /* Lighter pink color on hover */
+    color: white;
+  }
+
+</style>

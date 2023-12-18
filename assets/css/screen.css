@@ -763,7 +763,7 @@ iframe {
 }
 
 .transpdark {
-    background: rgba(0, 0, 0, 0.75);
+    background:  rgba(255, 102, 196, 0.84); /* mobile explore tab */
     color: #fff;
 }
 
