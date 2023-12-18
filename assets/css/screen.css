@@ -779,7 +779,8 @@ iframe {
     }
 
     .jumbotron.fortags .col-md-4 {
-        background: rgba(0, 0, 0, 0.75);
+        background: rgba(255, 102, 196, 0.84); /* Adjust the last parameter (0.5) for the desired opacity (0 is fully transparent, 1 is fully opaque) */
+
         color: #fff;
     }
 
@@ -798,7 +799,7 @@ iframe {
 
 .jumbotron.fortags a {
     padding: 5px 10px 7px;
-    background: #222;
+    background: #FF66C4;
     border-radius: 30px;
     color: #fff;
     font-weight: 500;
