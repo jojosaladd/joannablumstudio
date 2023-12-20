@@ -15,7 +15,7 @@ Elevate your kitchen with super-simple DIY potholders. Let's get creative effort
 
 ## Gather Your Materials:
 
-<img src="{{ site.baseurl }}/assets/images/post1/1.jpg" alt="Potholder Materials" style="width:50%;">
+<img src="{{ site.baseurl }}/assets/images/post1/1.jpg" alt="Potholder Materials" style="width:100%;">
 
 - A quarter yard of fabric or scraps of cotton or linen fabric
 - [Insul-bright insulating batting (Thermal batting)](https://www.amazon.com/Insul-Bright-Needlepunched-Insulated-Lining-yard/dp/B000YZ7CQG)
