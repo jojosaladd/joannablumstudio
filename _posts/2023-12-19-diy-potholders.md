@@ -36,7 +36,7 @@ Elevate your kitchen with super-simple DIY potholders. Let's get creative effort
 
 ##### For Square⬜ Potholder:
 
-<img src="{{ site.baseurl }}/assets/images/post1/2.jpg" alt="Square Potholder Sample Cut" style="width:40%;">
+<img src="{{ site.baseurl }}/assets/images/post1/2.jpg" alt="Square Potholder Sample Cut" style="width:100%;">
 
 - cut two 8" squares from fabric
 - cut two 8" squares from thermal batting
@@ -44,7 +44,7 @@ Elevate your kitchen with super-simple DIY potholders. Let's get creative effort
 
 ##### For Circle⚪ Potholder:
 
-<img src="{{ site.baseurl }}/assets/images/post1/3.jpg" alt="Circle Potholder Sample Cut" style="width:40%;">
+<img src="{{ site.baseurl }}/assets/images/post1/3.jpg" alt="Circle Potholder Sample Cut" style="width:100%;">
 
 - cut two 8-9" diameter circles from fabric
 - cut two 8-9" diameter circles from thermal batting
@@ -52,10 +52,10 @@ Elevate your kitchen with super-simple DIY potholders. Let's get creative effort
 
 💠 You can use any bowl with a diameter between 8 and 9 inches to trace the circle.
 
-<img src="{{ site.baseurl }}/assets/images/post1/4.jpg" alt="Circle Potholder Sample Cut" style="width:30%;">
+<img src="{{ site.baseurl }}/assets/images/post1/4.jpg" alt="Circle Potholder Sample Cut" style="width:70%;">
 
 #### Step 2. Make the Hanging Loop
-<img src="{{ site.baseurl }}/assets/images/post1/5.jpg" alt="Hanging Loop Part 1" style="width:70%;">
+<img src="{{ site.baseurl }}/assets/images/post1/5.jpg" alt="Hanging Loop Part 1" style="width:100%;">
 
 1. Fold the hanging loop fabric piece with right sides together.
 2. Stitch with a 1/2" seam allowance.
@@ -64,7 +64,7 @@ Elevate your kitchen with super-simple DIY potholders. Let's get creative effort
 5. Make a tiny hole 1/4 to 1/2 inch from one end.
 6. Slide the loop turner into the tube and insert the hook into the hole made in step 5.
 
-<img src="{{ site.baseurl }}/assets/images/post1/6.jpg" alt="Hanging Loop Part 2" style="width:80%;">
+<img src="{{ site.baseurl }}/assets/images/post1/6.jpg" alt="Hanging Loop Part 2" style="width:100%;">
 
 <ol start="7">
   <li>If it's properly latched, pull the turner in your direction by gently massaging the fabric on the hook to turn the strap inside out.</li>
@@ -84,4 +84,4 @@ This alternative may be a more straightforward option for you.
 
 💠 Please note that this step is entirely optional. In my examples, I opted for quilt stitching only for the circle potholder.
 
-<img src="{{ site.baseurl }}/assets/images/post1/7.jpg" alt="Quilt Design Part" style="width:60%;">
+<img src="{{ site.baseurl }}/assets/images/post1/7.jpg" alt="Quilt Design Part" style="width:100%;">
