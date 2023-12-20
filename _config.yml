@@ -1,13 +1,13 @@
 # Site
 name: "Joanna Blüm Studio"
 title: "Joanna Blüm Studio"
-description: "Hello! I'm Joanna, and I design cute and trendy sewing patterns & various digital fashion assets. I also create lots of sewing and craft tutorials.💗 If you're new, check out the freebies to get started!"
+description: "Hello! I'm Joanna, and I design cute and trendy sewing patterns & various digital fashion assets. I also create lots of sewing and craft tutorials.💗 If you're new, check out the freebies & tutorials to get started!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://joannablumstudio.us21.list-manage.com/subscribe/post?u=90c73bfd965951d110c9e34d1&amp;id=c4724fec01&amp;f_id=004ae9e6f0'
 include: ["_pages"]
 permalink: /:title/
 
@@ -39,7 +39,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 9
 paginate_path: /page:num/
     
 # Other
