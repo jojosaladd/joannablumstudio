@@ -15,7 +15,7 @@ Elevate your kitchen with super-simple DIY potholders. Let's get creative effort
 
 ## Gather Your Materials:
 
-<img src="{{ site.baseurl }}/assets/images/post1/1.jpg" alt="Potholder Materials" style="width:100%;">
+<img src="{{ site.baseurl }}/assets/images/post1/1.jpg" alt="Potholder Materials" style="width:85%;">
 
 - A quarter yard of fabric or scraps of cotton or linen fabric
 - [Insul-bright insulating batting (Thermal batting)](https://www.amazon.com/Insul-Bright-Needlepunched-Insulated-Lining-yard/dp/B000YZ7CQG)
@@ -36,7 +36,7 @@ Elevate your kitchen with super-simple DIY potholders. Let's get creative effort
 
 ##### For Square⬜ Potholder:
 
-<img src="{{ site.baseurl }}/assets/images/post1/2.jpg" alt="Square Potholder Sample Cut" style="width:100%;">
+<img src="{{ site.baseurl }}/assets/images/post1/2.jpg" alt="Square Potholder Sample Cut" style="width:85%;">
 
 - cut two 8" squares from fabric
 - cut two 8" squares from thermal batting
@@ -44,7 +44,7 @@ Elevate your kitchen with super-simple DIY potholders. Let's get creative effort
 
 ##### For Circle⚪ Potholder:
 
-<img src="{{ site.baseurl }}/assets/images/post1/3.jpg" alt="Circle Potholder Sample Cut" style="width:100%;">
+<img src="{{ site.baseurl }}/assets/images/post1/3.jpg" alt="Circle Potholder Sample Cut" style="width:85%;">
 
 - cut two 8-9" diameter circles from fabric
 - cut two 8-9" diameter circles from thermal batting
@@ -74,9 +74,12 @@ Elevate your kitchen with super-simple DIY potholders. Let's get creative effort
 </ol>
 
 💠 There are multiple techniques for crafting the hanging loop. If using a loop turner feels too advanced or uncomfortable, consider an alternative method. 
-1. Start by folding each side by 1/4" on the wrong side and stitching. 
-2. Then, press and fold on the right side. 
-3. Secure the folds with a top stitch to create the strap. 
+
+1. Begin by folding the rectangle in half lengthwise and pressing it.
+2. Unfold the rectangle, then fold both sides towards the middle and press.
+3. Fold the rectangle along the middle line and press it closed once more.
+4. Finally, secure the folds with a top stitch to create the strap.
+
 
 This alternative may be a more straightforward option for you.
 
@@ -85,3 +88,91 @@ This alternative may be a more straightforward option for you.
 💠 Please note that this step is entirely optional. In my examples, I opted for quilt stitching only for the circle potholder.
 
 <img src="{{ site.baseurl }}/assets/images/post1/ins3.jpg" alt="Quilt Design Part" style="width:100%;">
+
+1. Using your fabric marking pen or a pencil, draw out the quilt design you desire on the thermal batting pieces. 
+2. Ensure that the designs on both thermal batting pieces are symmetrical.
+
+#### Step 4. Assemble Pieces (🤩 Exciting!)
+
+##### For Square⬜ Potholder (without quilt design):
+1. Place the squares of fabric (1 fabric piece and 1 thermal) wrong sides together. 
+2. You should have two sets. For one of the sets, place the hanging loop at one of the corners, pinning it as shown in the picture (raw ends directed towards the corner, and the edges not quite touching). The loop length should be at your desired length, but it looks best with the distance from the overlapping point to the loop end about 1 1/2 inches.
+3. Sew a few stitching lines along the edge to secure the hanging loop.
+4. Trim the edges of the loop.
+5. Place these two sets together, this time with the fabric right sides together.
+6. Pin the pieces well and prepare to sew.
+7. Sew along the edge of the stack, sewing 1/2 inch from the edge. Leave a 2-3 inch opening on one side.
+8. Trim the corners and the seam allowance to 1/8"-1/4" inch.
+9. Use the hole to turn the potholder right side out.
+10. Iron it nice and flat! (Use a seam creaser or chopsticks to make the edge as crisp as possible!)
+11. Topstitch 3/8" or 1/4" (My example is 3/8").
+12. Yay! All done 😊
+
+##### For Circle⚪ Potholder (with quilt design): 
+
+<img src="{{ site.baseurl }}/assets/images/post1/6.jpg" alt="Circle Potholder Assembly" style="width:85%;">
+
+<ol start="1">
+  <li>
+    Place the circles of fabric (1 fabric piece and 1 thermal) wrong sides together.
+  </li>
+  <li>
+    You should have two sets. Quilt the layers for the two sets with the design you created in step 3.
+  </li>
+</ol>
+
+<img src="{{ site.baseurl }}/assets/images/post1/7.jpg" alt="Circle Potholder Assembly" style="width:85%;">
+
+<ol start="3">
+  <li>
+    For one of the sets, place the hanging loop at any corner (since it's a circle), pinning it as shown in the picture (raw ends directed towards the corner, and the edges not quite touching). The loop length should be at your desired length, but it looks best with the distance from the overlapping point to the loop end about 1 1/2 inches.
+  </li>
+  <li>
+    Sew a few stitching lines along the edge to secure the hanging loop.
+  </li>
+  <li>
+    Trim the edges of the loop.
+  </li>
+</ol>
+
+<img src="{{ site.baseurl }}/assets/images/post1/8.jpg" alt="Circle Potholder Assembly" style="width:85%;">
+
+<ol start="6">
+  <li>
+    Place these two sets together, this time with the fabric right sides together.
+  </li>
+  <li>
+    Pin the pieces well and prepare to sew.
+  </li>
+  <li>
+    Sew along the edge of the stack, sewing 1/2 inch from the edge. Leave a 1 1/2 - 3 inch opening on one side. (For circle, 1 1/2" works great!)
+  </li>
+  <li>
+    Trim the corners and the seam allowance to 1/8"-1/4" inch.
+  </li>
+  <li>
+    Use the hole to turn the potholder right side out.
+  </li>
+    <li>
+    Iron it nice and flat! (Use a seam creaser or chopsticks to make the perfect circle!)
+  </li>
+</ol>
+
+<img src="{{ site.baseurl }}/assets/images/post1/9.jpg" alt="Circle Potholder Assembly" style="width:50%;">
+
+<ol start="12">
+  <li>
+    Topstitch 3/8" or 1/4" (My example is 3/8").
+  </li>
+  <li>
+    Yay! All done 😊
+  </li>
+</ol>
+
+💠 You should be able to make the set of potholders (one square + one circle) in about an hour! This can be a perfect gift idea for holidays or housewarming. It's also an ideal first project for those who have just started sewing/quilting. I'll be creating more potholder tutorials with holiday themes or some design twists soon. 
+
+Additionally, don't be disappointed if you don't achieve perfect quality with your potholder. Personally, it took me about four tries to finally create something suitable as a gift. Achieving perfection takes time. Let's stay committed to practice and craft awesome things together! 💗
+
+Lastly, if you'd like to craft a burlap gift envelope with a boho feel for these potholders, check out this [tutorial]({{ site.baseurl }}/diy-burlap-gift-envelope/)!
+
+
