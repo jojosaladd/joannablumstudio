@@ -9,6 +9,8 @@ featured: true
 hidden: false
 rating: 1.5
 ---
+<!-- tags: [red, yellow] : I erased this bcuz I didn't know what this was -->
+
 
 Elevate your kitchen with super-simple DIY potholders. Let's get creative effortlessly for fabulous results!🧵
 
@@ -95,18 +97,58 @@ This alternative may be a more straightforward option for you.
 #### Step 4. Assemble Pieces (🤩 Exciting!)
 
 ##### For Square⬜ Potholder (without quilt design):
-1. Place the squares of fabric (1 fabric piece and 1 thermal) wrong sides together. 
-2. You should have two sets. For one of the sets, place the hanging loop at one of the corners, pinning it as shown in the picture (raw ends directed towards the corner, and the edges not quite touching). The loop length should be at your desired length, but it looks best with the distance from the overlapping point to the loop end about 1 1/2 inches.
-3. Sew a few stitching lines along the edge to secure the hanging loop.
-4. Trim the edges of the loop.
-5. Place these two sets together, this time with the fabric right sides together.
-6. Pin the pieces well and prepare to sew.
-7. Sew along the edge of the stack, sewing 1/2 inch from the edge. Leave a 2-3 inch opening on one side.
-8. Trim the corners and the seam allowance to 1/8"-1/4" inch.
-9. Use the hole to turn the potholder right side out.
-10. Iron it nice and flat! (Use a seam creaser or chopsticks to make the edge as crisp as possible!)
-11. Topstitch 3/8" or 1/4" (My example is 3/8").
-12. Yay! All done 😊
+
+<img src="{{ site.baseurl }}/assets/images/post1/one.jpg" alt="Square Potholder Assembly" style="width:90%;">
+
+<ol start="1">
+  <li>
+    Place the squares of fabric (1 fabric piece and 1 thermal) wrong sides together. 
+  </li>
+  <li>
+    You should have two sets. For one of the sets, place the hanging loop at one of the corners, pinning it as shown in the picture (raw ends directed towards the corner, and the edges not quite touching). The loop length should be at your desired length, but it looks best with the distance from the overlapping point to the loop end about 1 1/2 inches.
+  </li>
+  <li>
+    Sew a few stitching lines along the edge to secure the hanging loop.
+  </li>
+  <li>
+    Trim the edges of the loop.
+  </li>
+</ol>
+
+<img src="{{ site.baseurl }}/assets/images/post1/two.jpg" alt="Square Potholder Assembly" style="width:100%;">
+
+<ol start="5">
+  <li>
+    Place these two sets together, this time with the fabric right sides together.
+  </li>
+  <li>
+    Pin the pieces well and prepare to sew.
+  </li>
+  <li>
+    Sew along the edge of the stack, sewing 1/2 inch from the edge. Leave a 2-3 inch opening on one side.
+  </li>
+  <li>
+    Trim the corners and the seam allowance to 1/8"-1/4" inch.
+  </li>
+</ol>
+
+<img src="{{ site.baseurl }}/assets/images/post1/three.jpg" alt="Square Potholder Assembly" style="width:100%;">
+
+<ol start="9">
+  <li>
+    Use the hole to turn the potholder right side out.
+  </li>
+  <li>
+    Iron it nice and flat! (Use a seam creaser or chopsticks to make the edge as crisp as possible!)
+  </li>
+  <li>
+    Topstitch 3/8" or 1/4" (My example is 3/8").
+  </li>
+  <li>
+    Yay! All done 😊
+  </li>
+</ol>
+
 
 ##### For Circle⚪ Potholder (with quilt design): 
 
