@@ -2,7 +2,7 @@
 layout: post
 title: "Sew Smart: 7 Must-Try Optional Sewing Tools"
 author: joanna
-categories: [sewing, crafting, tips]
+categories: [sewing, tips]
 image: assets/images/post3/cover.jpg
 description: "Discover 7 fantastic optional sewing tools that are incredibly useful, especially for beginners aiming for professional-quality results! 🧶"
 featured: false

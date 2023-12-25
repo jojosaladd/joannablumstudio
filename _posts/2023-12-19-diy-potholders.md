@@ -10,10 +10,7 @@ hidden: false
 rating: 1.5
 ---
 <!-- tags: [red, yellow] : I erased this bcuz I didn't know what this was -->
-
-
 Elevate your kitchen with super-simple DIY potholders. Let's get creative effortlessly for fabulous results!🧵
-
 
 ## Gather Your Materials:
 
