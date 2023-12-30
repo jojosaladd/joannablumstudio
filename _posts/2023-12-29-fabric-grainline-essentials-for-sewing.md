@@ -17,7 +17,7 @@ Welcome to the world of sewing and crafting! Today, we're diving into a crucial 
 
 <img src="{{ site.baseurl }}/assets/images/post6/grainline.jpg" alt="grainline guide" style="width:100%;">
 
-**1. Straight or Lengthwise Grain** - The straight(lengthwise) grain runs parallel to the selvage edge of the fabric. It provides stability and is commonly aligned with the straight edge of a pattern.
+**1. Straight or Lengthwise Grain** - The straight(lengthwise) grain runs parallel to the selvedge edge of the fabric. It provides stability and is commonly aligned with the straight edge of a pattern.
 
 **2. Crosswise Grain** - Perpendicular to the lengthwise grain, the crosswise grain has its unique characteristics. It often has a bit more stretch and is crucial for certain design elements.
 
