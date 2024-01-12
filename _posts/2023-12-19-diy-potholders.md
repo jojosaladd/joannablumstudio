@@ -5,9 +5,9 @@ author: joanna
 categories: [tutorials, DIY, sewing, quilting, crafting]
 image: assets/images/post1/11.jpg
 description: "Elevate your kitchen with super-simple DIY potholders. Let's get creative effortlessly for fabulous results!🧵"
-featured: true
+featured: false
 hidden: false
-rating: 1.5
+rating: 1
 ---
 <!-- tags: [red, yellow] : I erased this bcuz I didn't know what this was -->
 Elevate your kitchen with super-simple DIY potholders. Let's get creative effortlessly for fabulous results!🧵

@@ -7,7 +7,7 @@ image: assets/images/post8/cover.jpg
 description: "Explore creativity with our 'Sustainable Sparkle' DIY Reusable Makeup Remover Pads & Wash Bags tutorial. Elevate your routine with a touch of eco-friendly glam! ✨💚"
 featured: false
 hidden: false
-rating: 1.5
+rating: 1
 
 ---
 Explore creativity with our 'Sustainable Sparkle' DIY Reusable Makeup Remover Pads & Wash Bags tutorial. Elevate your routine with a touch of eco-friendly glam! ✨💚
