@@ -187,6 +187,6 @@ Let's get started! Here is the free pattern for download!
 
 Give everything a good press and you’re all done! YAY. If you have any questions or are stuck with any instructions, please feel free to contact me anytime.
 
-Don't forget to find me on Instagram [@joannablumstudio](https://www.instagram.com/joannablumstudio/) and tag your photo with **#joannablumstudio** and **#melisabigbowtotebag**!
+Don't forget to find me on Instagram [@joannablumstudio](https://www.instagram.com/joannablumstudio/) and tag your photo with **@joannablumstudio**,  **#joannablumstudio** and **#melisabigbowtotebag**!
 
 <img src="{{ site.baseurl }}/assets/images/post11/tote.jpg" alt="big-bow-tote" style="width:620px;">
