@@ -6,7 +6,7 @@ categories: [sewing, crafting, tutorials, DIY, freebies]
 squareimage: assets/images/post5/cover.jpg
 image: assets/images/post5/cover.jpg
 description: "Add a touch of love to your home with DIY Valentine Coasters - handmade elegance for your coffee table ❤️"
-featured: true
+featured: false
 hidden: false
 rating: 1.5
 
