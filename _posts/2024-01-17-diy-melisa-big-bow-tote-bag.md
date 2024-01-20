@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "DIY-Melisa Big Bow Tote Bag: A Beginner-Friendly Step-by-Step Tutorial"
+title: "DIY-Melisa Big Bow Tote Bag: A Beginner-Friendly Step-by-Step Tutorial with Free Sewing Pattern"
 author: joanna
 categories: [tutorials, DIY, sewing, crafting, freebies]
 image: assets/images/post11/cover.jpg
 squareimage: assets/images/post11/squarecover.jpg
-description: "Design a cute DIY-Melisa Big Bow Tote Bag 🎀 with our beginner-friendly guide, featuring the latest big bow trend. Create a stylish and durable tote! — perfect for beginners!"
+description: "Design a cute DIY-Melisa Big Bow Tote Bag 🎀 with our beginner-friendly guide with free sewing pattern, featuring the latest big bow trend. Create a stylish and durable tote! — perfect for beginners!"
 featured: true
 hidden: false
 rating: 2
 ---
 
-Design a cute DIY-Melisa Big Bow Tote Bag 🎀 with our beginner-friendly guide, featuring the latest big bow trend. Create a stylish and durable tote! — perfect for beginners!
+Design a cute DIY-Melisa Big Bow Tote Bag 🎀 with our beginner-friendly guide with free sewing pattern, featuring the latest big bow trend. Create a stylish and durable tote! — perfect for beginners!
 
 After my friend surprised me with a stunning big bow crochet bag for my birthday, I felt inspired to reciprocate the gesture with a special handmade creation. She always had trouble finding a tote that nailed both style and durability. After a few attempts (okay, three prototypes), I nailed it! The unexpected love for this tote bag had people clamoring for a pattern or tutorial, so here it is! 💕
 
