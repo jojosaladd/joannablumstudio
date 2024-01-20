@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DIY-Melisa Big Bow Tote Bag: A Beginner-Friendly Step-by-Step Tutorial with Free Sewing Pattern"
+title: "Eesy DIY Big Bow Tote Bag Tutorial with Free Sewing Pattern"
 author: joanna
 categories: [tutorials, DIY, sewing, crafting, freebies]
 image: assets/images/post11/cover.jpg
