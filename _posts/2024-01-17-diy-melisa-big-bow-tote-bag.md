@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "DIY-Melisa Big Bow Tote Bag: A Beginner-Friendly Step-by-Step Tutorial"
+title: "DIY-Melisa Big Bow Tote Bag: A Beginner-Friendly Step-by-Step Tutorial with Free Sewing Pattern"
 author: joanna
 categories: [tutorials, DIY, sewing, crafting, freebies]
 image: assets/images/post11/cover.jpg
 squareimage: assets/images/post11/squarecover.jpg
-description: "Design a cute DIY-Melisa Big Bow Tote Bag 🎀 with our beginner-friendly guide, featuring the latest big bow trend. Create a stylish and durable tote! — perfect for beginners!"
+description: "Design a cute DIY-Melisa Big Bow Tote Bag 🎀 with our beginner-friendly guide with free sewing pattern, featuring the latest big bow trend. Create a stylish and durable tote! — perfect for beginners!"
 featured: true
 hidden: false
 rating: 2
 ---
 
-Design a cute DIY-Melisa Big Bow Tote Bag 🎀 with our beginner-friendly guide, featuring the latest big bow trend. Create a stylish and durable tote! — perfect for beginners!
+Design a cute DIY-Melisa Big Bow Tote Bag 🎀 with our beginner-friendly guide with free sewing pattern, featuring the latest big bow trend. Create a stylish and durable tote! — perfect for beginners!
 
 After my friend surprised me with a stunning big bow crochet bag for my birthday, I felt inspired to reciprocate the gesture with a special handmade creation. She always had trouble finding a tote that nailed both style and durability. After a few attempts (okay, three prototypes), I nailed it! The unexpected love for this tote bag had people clamoring for a pattern or tutorial, so here it is! 💕
 
@@ -187,6 +187,6 @@ Let's get started! Here is the free pattern for download!
 
 Give everything a good press and you’re all done! YAY. If you have any questions or are stuck with any instructions, please feel free to contact me anytime.
 
-Don't forget to find me on Instagram [@joannablumstudio](https://www.instagram.com/joannablumstudio/) and tag your photo with **#joannablumstudio** and **#melisabigbowtotebag**!
+Don't forget to find me on Instagram [@joannablumstudio](https://www.instagram.com/joannablumstudio/) and tag your photo with **@joannablumstudio**,  **#joannablumstudio** and **#melisabigbowtotebag**!
 
 <img src="{{ site.baseurl }}/assets/images/post11/tote.jpg" alt="big-bow-tote" style="width:620px;">
