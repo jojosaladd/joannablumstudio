@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eesy DIY Big Bow Tote Bag Tutorial with Free Sewing Pattern"
+title: "Easy DIY Big Bow Tote Bag Tutorial with Free Sewing Pattern"
 author: joanna
 categories: [tutorials, DIY, sewing, crafting, freebies]
 image: assets/images/post11/cover.jpg
