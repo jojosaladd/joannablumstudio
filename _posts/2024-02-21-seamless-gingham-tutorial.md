@@ -29,7 +29,7 @@ Create a new document in Photoshop with a size of 5.5 X 5.5 cm (It's easier to w
 
     <img src="{{ site.baseurl }}/assets/images/post14/grid_view.png" alt="gingham-tutorial-2" style="width:550px;">
 
-2. Choose **Preferences > Guides, Grid & Slices ..**
+2. Choose **Edit > Preferences > Guides, Grid & Slices ..**
 
     <img src="{{ site.baseurl }}/assets/images/post14/grid_guide_setting.png" alt="gingham-tutorial-3" style="width:550px;">
 

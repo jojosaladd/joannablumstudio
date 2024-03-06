@@ -12,6 +12,8 @@ comments: true
   <img class="shadow-lg rounded-circle" src="{{site.baseurl}}/assets/images/avatar.png" alt="avatar" style="width: 300px;" /></p>
 <p>Hello! I'm Joanna. With almost a decade of experience as a fashion designer and technical designer in Los Angeles, I'm currently working as a freelance technical designer while studying full-time. During my free time, I run this blog. It's my space to share insights about fashion, pattern making, crafting, and sewing – things I'm passionate about. Join me in connecting with fellow fashion enthusiasts and anyone who loves a good sewing or crafting session. I hope you find something you like on the blog! 💗 </p>
 
+<p><strong>New Update (March 2024):</strong> I'll be attending Cornell University as a Master's student to do research on digital fashion-related topics! I'll make sure to share my journey on my blog.</p>
+
 <h4>Q & A</h4>
 
 <p><strong>Q) How did you learn pattern making, crafting, and sewing?</strong></p>

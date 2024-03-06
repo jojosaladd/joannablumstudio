@@ -2,7 +2,7 @@
 layout: post
 title: "Labeling Love: A Step-by-Step Guide to DIY Fabric Tags"
 author: joanna
-categories: [tutorials, DIY, sewing, crafting, freebies]
+categories: [tutorials, DIY, sewing, crafting]
 image: assets/images/post10/cover.jpg
 squareimage: assets/images/post10/squarecover.jpg
 description: "Explore a quick, step-by-step DIY guide to crafting unique fabric tags. Add a touch of personality to your handmade pieces! ✨🧵 "
