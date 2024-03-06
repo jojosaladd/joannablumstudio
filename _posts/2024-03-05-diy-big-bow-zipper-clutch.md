@@ -165,7 +165,7 @@ Note: You will need approximately **1/2 to 3/4** inches of fabric, depending on 
 
 Give everything a good press and you’re all done! YAY. If you have any questions or are stuck with any instructions, please feel free to contact me anytime.
 
-Don't forget to find me on Instagram [@joannablumstudio](https://www.instagram.com/joannablumstudio/) and tag your photo with **@joannablumstudio**,  **#joannablumstudio** and **#melisabigbowtotebag**!
+Don't forget to find me on Instagram [@joannablumstudio](https://www.instagram.com/joannablumstudio/) and tag your photo with **@joannablumstudio**,  **#joannablumstudio** and **#MelisaBigBowClutch**!
 
 <img src="{{ site.baseurl }}/assets/images/post13/final.png" alt="big-bow-clutch" style="width:620px;">
 
