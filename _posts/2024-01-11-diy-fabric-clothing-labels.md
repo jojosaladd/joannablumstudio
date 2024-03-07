@@ -25,7 +25,7 @@ Also, here's the free retro-inspired template you can use if you want to print i
 ## Materials Needed:
 - Inkjet printer
 - Your preferred cotton fabric for creating labels. I used 1" natural color cotton twill tape.
-- [Heat Transfer Paper](https://www.amazon.com/dp/B08CN3N48H?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- [Heat Transfer Paper](https://amzn.to/48HUEzL)
 - Iron for pressing
 - Interfacing (if your chosen fabric needs extra stability) - Optional
 - Anti-fray glue - Optional

@@ -22,7 +22,7 @@ Sewing a curved line can be a bit tricky, especially when it comes to heart shap
 <img src="{{ site.baseurl }}/assets/images/post5/1.jpg" alt="Valentine Coasters Materials" style="width:85%;">
 
 - Scraps of fabric of your choice
-- Any type of batting of your choice. For mine, I used [Insul-bright insulating batting (Thermal batting)](https://www.amazon.com/Insul-Bright-Needlepunched-Insulated-Lining-yard/dp/B000YZ7CQG)
+- Any type of batting of your choice. For mine, I used [Insul-bright insulating batting (Thermal batting)](https://amzn.to/3V9dLiZ)
 - Sewing clips (or pins)
 - Fabric scissors
 - Ruler
