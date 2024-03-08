@@ -15,6 +15,7 @@ Explore creativity with our 'Sustainable Sparkle' DIY Reusable Makeup Remover Pa
 I used to use a lot of cotton circles and disposable makeup wipes, and I really felt guilty about it. Fortunately, I came across a great deal on terry cloth fabric during the Black Friday sale. When I was searching for inspiration to create something, this idea immediately clicked for me! Here is a free pattern you can use (I know this project is super simple and may not even need a pattern, but I just wanted to make your life a tiny bit easier). Let's get started! 😀
 
 - [Download Pattern]({{ site.baseurl }}/assets/images/post8/reusable_makeup_remover_set_pattern.pdf) 💕
+* Please note that the bias binding tape guide serves as a reference and may not precisely match the size required for this project.
 
 ## Gather Your Materials:
 

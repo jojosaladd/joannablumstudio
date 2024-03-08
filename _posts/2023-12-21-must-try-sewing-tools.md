@@ -22,7 +22,7 @@ This tiny measuring tool is perfect for checking small measurements when you are
 
 These erasable pens are lifesavers. They were incredibly helpful during my days of hand-drafting patterns in fashion school. They are super useful for marking fabrics in your sewing projects, and I can't imagine sewing without them. While a bit pricier than regular pens, they are totally worth it. However, be cautious when using these pens to label your patterns, as the markings may disappear with heat, and sometimes they fade away after exposure to hot summer conditions, which you definitely want to avoid.
 
-PILOT FriXion is my personal favorite brand, offering a variety of color choices and pen types (highlighters, markers, ballpoints, etc.). The best part is that they are a bit cheaper than pens labeled specifically as "fabric marking pens." If you're interested, you can check them out [here](https://www.amazon.com/PILOT-Erasable-Refillable-Retractable-Assorted/dp/B085WRNYZB/ref=asc_df_B085WRNYZB/?tag=&linkCode=df0&hvadid=416655986074&hvpos=&hvnetw=g&hvrand=3614904098988213752&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030930&hvtargid=pla-908701735398&mcid=0fa38f1e524b3d4d8c05005b01cf892e&ref=&adgrpid=93602480333&gclid=Cj0KCQiA4Y-sBhC6ARIsAGXF1g5lZJdTEqVuLPuu-6aMXj2lx63a1z6PgmQ8Nmfof4ukXnr7gWQOysgaAs7DEALw_wcB&th=1).
+PILOT FriXion is my personal favorite brand, offering a variety of color choices and pen types (highlighters, markers, ballpoints, etc.). The best part is that they are a bit cheaper than pens labeled specifically as "fabric marking pens." If you're interested, you can check them out [here](https://amzn.to/48EQyZe).
 
 <img src="{{ site.baseurl }}/assets/images/post3/3.jpg" alt="post3" style="width:80%;">
 

@@ -39,6 +39,7 @@ Let's get started! Here is the free pattern for download!
 - Sewing clips or pins
 - Sewing machine, needle, coordinating thread
 - Tools for hand stitching
+- (OPTIONAL) [Sew-In Magnetic Snap Buttons](https://amzn.to/435aVO5) 
 
 ## Sewing Instructions:
 
