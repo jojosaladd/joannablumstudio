@@ -20,6 +20,18 @@ As I gear up to offer top-notch patterns for sale (coming soon), I'm eager for y
 Let's get started! Here is the free pattern for download!
  - [Download Free Melisa Big Bow Tote Bag]({{ site.baseurl }}/assets/images/post11/melissa tote bag_pattern.pdf) 💕
 
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1443804967712837" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-1443804967712837"
+     data-ad-slot="6587968730"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 #### Patten Piece Inventory:
 
 <img src="{{ site.baseurl }}/assets/images/post11/overview_tote_bag_pattern.png" alt="overview-big-bow-pattern-pieces" style="width:550px;">
@@ -32,14 +44,28 @@ Let's get started! Here is the free pattern for download!
 - **F**: Lining Upper Panel Self Cut 2 (1 Pair)
 - **G**: Lining Lower Panel Lining Cut 2 (1 Pair)
 
+
 ## Gather Your Materials:
-- Your choice of self fabric (Medium to Heavyweight Canvas Fabric)
-- Your choice of lining fabric 
+- Your choice of self fabric (Medium to Heavyweight Canvas Fabric, 3/4 - 1 yard needed)
+- Your choice of lining fabric (1/2 - 3/4 yard needed)
 - Fabric marking pen or pencil
 - Sewing clips or pins
 - Sewing machine, needle, coordinating thread
 - Tools for hand stitching
 - (OPTIONAL) [Sew-In Magnetic Snap Buttons](https://amzn.to/435aVO5) 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1443804967712837"
+     crossorigin="anonymous"></script>
+<!-- Horizontal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1443804967712837"
+     data-ad-slot="4543317376"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Sewing Instructions:
 
@@ -58,6 +84,19 @@ Let's get started! Here is the free pattern for download!
 
     <img src="{{ site.baseurl }}/assets/images/post11/3.png" alt="preparing-tote-strap-picture-3" style="width:550px;">
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1443804967712837"
+     crossorigin="anonymous"></script>
+<!-- Horizontal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1443804967712837"
+     data-ad-slot="4543317376"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### Part 2: Prepare the Bow Part
 
@@ -106,6 +145,19 @@ Let's get started! Here is the free pattern for download!
     <img src="{{ site.baseurl }}/assets/images/post11/14.png" alt="preparing-bow-part-picture-11" style="width:550px;">
 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1443804967712837"
+     crossorigin="anonymous"></script>
+<!-- Horizontal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1443804967712837"
+     data-ad-slot="4543317376"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Part 3: Attaching Bow to the Front Tote
 
 1. Fold fabric (A-front piece) in half and mark the center front (CF). From the CF, measure 4 1/2” down, then mark the loop placement (on the right side of the fabric) - use an erasable pen or fabric marker pen.
@@ -133,6 +185,19 @@ Let's get started! Here is the free pattern for download!
     <img src="{{ site.baseurl }}/assets/images/post11/20.png" alt="attaching-bow-part-picture-6" style="width:400px;">
 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1443804967712837"
+     crossorigin="anonymous"></script>
+<!-- Horizontal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1443804967712837"
+     data-ad-slot="4543317376"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Part 4: Attaching Strap to the Tote
 
 1. Position one of the strap pieces (E) 4” from the side of the A-front piece, ensuring that the top-stitched area is placed inside (with the folded area outside).
@@ -144,6 +209,16 @@ Let's get started! Here is the free pattern for download!
 
     <img src="{{ site.baseurl }}/assets/images/post11/22.png" alt="attaching-straps-picture-2" style="width:500px;">
 
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1443804967712837" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-1443804967712837"
+     data-ad-slot="6587968730"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### Part 5: Attaching Self Tote Pieces Together
 
@@ -165,6 +240,17 @@ Let's get started! Here is the free pattern for download!
     <img src="{{ site.baseurl }}/assets/images/post11/25.png" alt="attaching-tote-lining-picture-1" style="width:800px;">
 
 4. Use the instructions in part 5 to attach the lining tote pieces together.
+
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1443804967712837" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-1443804967712837"
+     data-ad-slot="6587968730"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### Part 7: Attaching Everything Together
 
