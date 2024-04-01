@@ -28,6 +28,17 @@ Elevate your kitchen with super-simple DIY potholders. Let's get creative effort
 
 💠 With a quarter yard of fabric (18in x 21in), you can make exactly one circle potholder and one square potholder.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1443804967712837"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-1443804967712837"
+     data-ad-slot="4400789096"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## How to Make a Potholder - Tutorial
 
 

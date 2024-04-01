@@ -32,9 +32,10 @@ Let's get started! Here is the free pattern for download!
 - **F**: Lining Upper Panel Self Cut 2 (1 Pair)
 - **G**: Lining Lower Panel Lining Cut 2 (1 Pair)
 
+
 ## Gather Your Materials:
-- Your choice of self fabric (Medium to Heavyweight Canvas Fabric)
-- Your choice of lining fabric 
+- Your choice of self fabric (Medium to Heavyweight Canvas Fabric, 3/4 - 1 yard needed)
+- Your choice of lining fabric (1/2 - 3/4 yard needed)
 - Fabric marking pen or pencil
 - Sewing clips or pins
 - Sewing machine, needle, coordinating thread
@@ -57,7 +58,6 @@ Let's get started! Here is the free pattern for download!
 3. Fold the rectangle along the middle line and press it closed once more. Secure the folds with a top stitch to create the strap.
 
     <img src="{{ site.baseurl }}/assets/images/post11/3.png" alt="preparing-tote-strap-picture-3" style="width:550px;">
-
 
 ### Part 2: Prepare the Bow Part
 
@@ -105,7 +105,6 @@ Let's get started! Here is the free pattern for download!
 
     <img src="{{ site.baseurl }}/assets/images/post11/14.png" alt="preparing-bow-part-picture-11" style="width:550px;">
 
-
 ### Part 3: Attaching Bow to the Front Tote
 
 1. Fold fabric (A-front piece) in half and mark the center front (CF). From the CF, measure 4 1/2” down, then mark the loop placement (on the right side of the fabric) - use an erasable pen or fabric marker pen.
@@ -132,7 +131,6 @@ Let's get started! Here is the free pattern for download!
 
     <img src="{{ site.baseurl }}/assets/images/post11/20.png" alt="attaching-bow-part-picture-6" style="width:400px;">
 
-
 ### Part 4: Attaching Strap to the Tote
 
 1. Position one of the strap pieces (E) 4” from the side of the A-front piece, ensuring that the top-stitched area is placed inside (with the folded area outside).
@@ -143,7 +141,6 @@ Let's get started! Here is the free pattern for download!
 3. Once completed, repeat the same process for the A-back piece.
 
     <img src="{{ site.baseurl }}/assets/images/post11/22.png" alt="attaching-straps-picture-2" style="width:500px;">
-
 
 ### Part 5: Attaching Self Tote Pieces Together
 
