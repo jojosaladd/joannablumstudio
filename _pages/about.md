@@ -19,7 +19,7 @@ comments: true
 <p><strong>Q) How did you learn pattern making, crafting, and sewing?</strong></p>
 <p>I went to FIDM (Fashion Institute of Design & Merchandising) and earned a degree in Fashion Design. I acquired pattern making and sewing skills during my time there, and I supplemented my learning by watching lots of YouTube videos and exploring other sewing blogs.</p>
 <p><strong>Q) Where do you draw inspiration for your fashion designs?</strong></p>
-<p>I find inspiration everywhere! Online, I rely heavily on platforms like Pinterest, Instagram, TikTokm many more. Offline, inspiration strikes during various experiences, whether it's shopping or visiting museums.</p>
+<p>I find inspiration everywhere! Online, I rely heavily on platforms like Pinterest, Instagram, TikTok and many more. Offline, inspiration strikes during various experiences, whether it's shopping or visiting museums.</p>
 <p><strong>Q) What are you currently studying? Don't you already have a degree from FIDM?</strong></p>
 <p>I'm currently pursuing a degree in Computer Science and Business Administration at USC (University of Southern California). My motivation stems from my passion for the digital fashion world and entrepreneurship. I'm nearing completion of my degree and am set to graduate in May 2024.</p>
 <p><strong>Q) Do you have plans to conduct in-person sewing/crafting classes in Los Angeles?</strong></p>
@@ -29,9 +29,9 @@ comments: true
 <p><strong>Q) Where do you get fabrics and trims?</strong></p>
 <p>Since I live so close to downtown LA, I source supplies from the fabric district there. Additionally, I often purchase materials online and from local stores like JOANN.</p>
 <p><strong>Q) What software do you use for pattern making?</strong></p>
-<p>I primarily use Adobe Illustrator, but occasionally, I also use Clo3D or Browzwear.</p>
+<p>I primarily use StyleCAD and Adobe Illustrator, but occasionally, I also use Clo3D or Browzwear.</p>
 <p><strong>Q) Can you share a fun fact about yourself?</strong></p>
-<p>I've lived in three different countries: Germany, South Korea, and here in the United States! Also, I used to have a green iguana as a child. 🦎 </p>
+<p>I've lived in three different countries: Germany, South Korea, and here in the United States! Also, I used to have a pet iguana as a child. 🦎 </p>
 
 
 
