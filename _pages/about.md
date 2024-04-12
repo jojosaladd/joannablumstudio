@@ -12,22 +12,22 @@ comments: true
   <img class="shadow-lg rounded-circle" src="{{site.baseurl}}/assets/images/avatar.png" alt="avatar" style="width: 300px;" /></p>
 <p>Hello! I'm Joanna. With almost a decade of experience as a fashion designer and technical designer in Los Angeles, I'm currently working as a freelance technical designer while studying full-time. During my free time, I run this blog. It's my space to share insights about fashion, pattern making, crafting, and sewing – things I'm passionate about. Join me in connecting with fellow fashion enthusiasts and anyone who loves a good sewing or crafting session. I hope you find something you like on the blog! 💗 </p>
 
-<p><strong>New Update (March 2024):</strong> I'll be attending Cornell University as a Master's student to do research on digital fashion-related topics! I'll make sure to share my journey on my blog.</p>
+<p><strong>New Update (March 2024):</strong> I'm moving to NY in August! I'll be sure to share my journey on my blog.</p>
 
 <h4>Q & A</h4>
 
 <p><strong>Q) How did you learn pattern making, crafting, and sewing?</strong></p>
-<p>I went to FIDM (Fashion Institute of Design & Merchandising) and earned a degree in Fashion Design. I acquired pattern making and sewing skills during my time there, and I supplemented my learning by watching lots of YouTube videos and exploring other sewing blogs.</p>
+<p>I studied at a fashion school in LA and earned a degree in Fashion Design. I gained pattern making and sewing skills during my time there, supplemented by watching various textbooks, YouTube videos and exploring sewing blogs.</p>
 <p><strong>Q) Where do you draw inspiration for your fashion designs?</strong></p>
 <p>I find inspiration everywhere! Online, I rely heavily on platforms like Pinterest, Instagram, TikTok and many more. Offline, inspiration strikes during various experiences, whether it's shopping or visiting museums.</p>
-<p><strong>Q) What are you currently studying? Don't you already have a degree from FIDM?</strong></p>
-<p>I'm currently pursuing a degree in Computer Science and Business Administration at USC (University of Southern California). My motivation stems from my passion for the digital fashion world and entrepreneurship. I'm nearing completion of my degree and am set to graduate in May 2024.</p>
+<p><strong>Q) What are you currently studying? Don't you already have a degree from fashion school</strong></p>
+<p>I'm currently pursuing a degree in Computer Science and Business Administration in addition to my fashion degree. My motivation stems from my passion for the digital fashion world and entrepreneurship. I'm set to graduate in May 2024.</p>
 <p><strong>Q) Do you have plans to conduct in-person sewing/crafting classes in Los Angeles?</strong></p>
 <p>I would love to do that! If there's enough demand, I'll definitely plan and let you all know. 😊 </p>
-<p><strong>Q) What sewing machine do you recommend for a beginner?</strong></p>
-<p>While there are many great choices, I personally love Singer Heavy Duty models. I used the Singer 4423 Heavy Duty Sewing Machine back in fashion school, and currently, I use the Singer 4452 Heavy Duty Sewing Machine.</p>
+<p><strong>Q) What sewing machines and sergers do you recommend for beginners?</strong></p>
+<p>While there are many great choices, I personally love Singer Heavy Duty models. I used the Singer 4423 Heavy Duty Sewing Machine back in fashion school, and currently, I use the Singer 4452 Heavy Duty Sewing Machine. For a serger, the Brother Serger 1034D is a must.</p>
 <p><strong>Q) Where do you get fabrics and trims?</strong></p>
-<p>Since I live so close to downtown LA, I source supplies from the fabric district there. Additionally, I often purchase materials online and from local stores like JOANN.</p>
+<p>Since I live so close to downtown LA, I source supplies from the fabric district there. Additionally, I often purchase materials online and from local stores like MOOD Fabrics and JOANN.</p>
 <p><strong>Q) What software do you use for pattern making?</strong></p>
 <p>I primarily use StyleCAD and Adobe Illustrator, but occasionally, I also use Clo3D or Browzwear.</p>
 <p><strong>Q) Can you share a fun fact about yourself?</strong></p>
