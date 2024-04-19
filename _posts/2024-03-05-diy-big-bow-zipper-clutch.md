@@ -2,11 +2,11 @@
 layout: post
 title: "Easy DIY Big Bow Zipper Clutch Tutorial with Free Sewing Pattern"
 author: joanna
-categories: [tutorials, DIY, sewing, crafting, freebies]
+categories: [tutorials, DIY, sewing, crafting, free patterns]
 image: assets/images/post13/cover.png
 squareimage: assets/images/post13/squarecover.jpg
 description: "Create an adorable and simple big bow zipper clutch with me. It's the perfect handmade gift! 🎀"
-featured: true
+featured: false
 hidden: false
 rating: 2
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Textile 101: Exploring Natural vs. Synthetic Fibers"
 author: joanna
-categories: [textile, sewing, tips]
+categories: [textile, sewing101, tips]
 image: assets/images/post16/cover.png
 description: "Explore the differences between natural and synthetic fibers in our comprehensive guide to textile basics. Whether you're a sewing enthusiast or simply curious about fabric composition, this article dives into everything you need to know about choosing the right fibers for your projects, with a focus on sustainability and eco-friendly options. 🌱 "
 featured: false

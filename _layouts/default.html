@@ -10,9 +10,9 @@
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
 <title>Joanna Blüm Studio</title>
-
+<!-- 
 <meta name="title" content="Joanna Blüm Studio" />
-<meta name="description" content="Fashion Design Blog 💗 | Cute and Trendy Sewing Patterns 💗 | Sewing and Craft Tutorials 💗 |  Quilting 💗 | Digital Fashion Assets 💗 | DIY Magic 💗  " />
+<meta name="description" content="Fashion Design Blog 💗 | Free Sewing Patterns 💗 | Sewing and Craft Tutorials 💗 |  Quilting 💗 | Digital Fashion Assets 💗 | DIY Magic 💗  " /> -->
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
@@ -64,6 +64,7 @@ ga('send', 'pageview');
 </script>
 {% endif %} -->
 
+
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">
 	<!-- defer loading of font and font awesome -->
@@ -109,11 +110,11 @@ ga('send', 'pageview');
                 </li> -->
 
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/freebies">Free Patterns</a>
+                <a class="nav-link" href="{{ site.baseurl }}/freepatterns">Free Patterns</a>
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/tutorials">Tutorials</a>
+                <a class="nav-link" href="{{ site.baseurl }}/sewing101">Sewing 101</a>
                 </li>
         
     
@@ -184,7 +185,7 @@ ga('send', 'pageview');
 <div class="alertbar">
 	<div class="container text-center">
         <span>
-            <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}" style="max-width: 85px;"> <!-- Adjust the max-width value as needed -->
+            <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}" style="max-width: 85px;"> 
             &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter
         </span>
                 <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
@@ -196,6 +197,7 @@ ga('send', 'pageview');
 	</div>
 </div>
 {% endif %}
+
     
 </div>
 

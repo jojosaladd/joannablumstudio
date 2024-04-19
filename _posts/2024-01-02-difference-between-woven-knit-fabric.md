@@ -2,7 +2,7 @@
 layout: post
 title: "Exploring the Differences Between Woven and Knit Fabric"
 author: joanna
-categories: [sewing, tips]
+categories: [sewing101, tips]
 image: assets/images/post7/cover.jpg
 description: "Delve into the world of Woven vs. Knit Fabric. 🧷🌟 Understand the differences and choose the right fabric for your sewing projects. A must-read for anyone looking to enhance their fabric knowledge!"
 featured: false

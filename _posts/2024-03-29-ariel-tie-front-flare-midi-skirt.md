@@ -2,10 +2,9 @@
 layout: post
 title: "Ariel Tie-Front Flare Midi Skirt: Free Sewing Pattern & Beginner-Friendly Instructions"
 author: joanna
-categories: [tutorials, sewing, freebies]
+categories: [tutorials, sewing, free patterns]
 image: assets/images/post17/cover2.png
 squareimage: assets/images/post17/squarecover.png
-
 description: "Get ready to create your version of the Ariel Tie-Front Flare Midi Skirt with our free sewing pattern and easy-to-follow instructions, perfect for beginners. 💗 "
 featured: true
 hidden: false
@@ -17,11 +16,10 @@ Get ready to create your version of the Ariel Tie-Front Flare Midi Skirt with ou
 ## Let's Get Started!
 
 Are you ready? We've got you covered with our free sewing pattern and easy-to-follow instructions.
- - [Download Free Pattern - Embedded Layers Version (Slower, Print Only Your Size)](https://drive.google.com/file/d/118vj0oA21jrgMYKzdVBkXt0uQZEwykjw/view?usp=sharing) 💕
- - [Download Free Pattern - Not Embedded Layers Version (Faster, All Sizes Only)](https://drive.google.com/file/d/1S_eb7eHEmsGM38Tx8L2bPgSi_F2XMduA/view?usp=sharing) 💕
+ - [Download Free Pattern](https://drive.google.com/file/d/1S_eb7eHEmsGM38Tx8L2bPgSi_F2XMduA/view?usp=sharing) 💕
 
 
-##### 💕 Learn How to Only Print Your Size (Embedded Layers Version Only):
+<!-- ##### 💕 Learn How to Only Print Your Size (Embedded Layers Version Only):
 
 This pattern file has embedded layers (organized by size). If you don't want to print all sizes, you can choose to print only your size using Adobe Reader (FREE!):
 
@@ -30,7 +28,7 @@ This pattern file has embedded layers (organized by size). If you don't want to 
 3. Click on the **Layers** option on the side panel.
 4. There will be an eye next to each layer in the pattern. Turn off (by clicking) all the layers you do not need. The **TEMPLATE** layer needs to remain on for all sizes.
 
-*Note: In some instances (though not always), printing preparation may require 3-5 minutes, which is perfectly normal. If you prefer not to wait, feel free to use the version without embedded layers.
+*Note: In some instances (though not always), printing preparation may require 3-5 minutes, which is perfectly normal. If you prefer not to wait, feel free to use the version without embedded layers. -->
 
 ##### 💕 Size Chart:
 
