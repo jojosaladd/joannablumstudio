@@ -2,7 +2,7 @@
 layout: post
 title: "DIY Valentine Coasters: Handmade Love for Your Coffee Table - with Free Pattern"
 author: joanna
-categories: [sewing, crafting, tutorials, DIY, freebies]
+categories: [sewing, crafting, tutorials, DIY, free patterns]
 squareimage: assets/images/post5/cover.jpg
 image: assets/images/post5/cover.jpg
 description: "Add a touch of love to your home with DIY Valentine Coasters - handmade elegance for your coffee table ❤️"

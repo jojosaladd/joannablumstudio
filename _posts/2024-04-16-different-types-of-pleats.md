@@ -2,7 +2,7 @@
 layout: post
 title: "Exploring the Different Types of Pleats"
 author: joanna
-categories: [pattern making, sewing, tips]
+categories: [pattern making, sewing101, tips]
 image: assets/images/post18/cover.png
 description: "Explore a variety of pleat styles, from traditional knife and box pleats to more intricate designs like inverted, accordion, sunburst, and godets!"
 featured: false

@@ -2,7 +2,7 @@
 layout: post
 title: "Buttons and Buttonholes- Free Button Size Chart"
 author: joanna
-categories: [pattern making, sewing, tips]
+categories: [pattern making, sewing101, tips]
 image: assets/images/post19/cover.png
 description: "💗 "
 featured: false

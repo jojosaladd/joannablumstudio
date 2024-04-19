@@ -2,7 +2,7 @@
 layout: post
 title: "From Beginner to Pro: Grainline Essentials for Every Sewist"
 author: joanna
-categories: [sewing, tips]
+categories: [sewing101, tips]
 image: assets/images/post6/cover.jpg
 description: "Mastering Grainline: The Essential First Step for Every Beginner Sewist 🧵✨ Learn why understanding grainlines is the foundation of successful sewing."
 featured: false

@@ -2,7 +2,7 @@
 layout: post
 title: "Sewing 101: How to Sew a French Seam"
 author: joanna
-categories: [tutorials, sewing, tips]
+categories: [tutorials, sewing101, tips]
 image: assets/images/post9/cover.jpg
 description: "Upgrade your sewing skills with our quick Sewing 101 guide on mastering French seams. Perfect for beginners, achieve a polished finish in minutes! ✂️"
 featured: false

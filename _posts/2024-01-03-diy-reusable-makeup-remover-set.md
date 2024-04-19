@@ -2,7 +2,7 @@
 layout: post
 title: "Sustainable Sparkle: DIY Reusable Makeup Remover Set"
 author: joanna
-categories: [tutorials, DIY, sewing, crafting, freebies]
+categories: [tutorials, DIY, sewing, crafting, free patterns]
 image: assets/images/post8/cover.jpg
 description: "Explore creativity with our 'Sustainable Sparkle' DIY Reusable Makeup Remover Pads & Wash Bags tutorial. Elevate your routine with a touch of eco-friendly glam! ✨💚"
 featured: false
