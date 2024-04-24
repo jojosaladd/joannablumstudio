@@ -20,7 +20,7 @@ By downloading this template, you're diving into industry standards and practice
 <img src="{{ site.baseurl }}/assets/images/post21/2.png" alt="flat-sketch-croquis-example" style="width:350px;">
 
 Here is the **FREE** fashion technical flats croquis for women, men, and children!
-- [Download the Technical Flats Croquis](/assets/images/post20/flat-sketch-croquis.zip){:target="_blank"} 💕
+- [Download the Technical Flats Croquis](/assets/images/post21/flat-sketch-croquis.zip){:target="_blank"} 💕
 
 
 ##### 💕 Learn How to Use the Template in Adobe Illustrator
