@@ -6,7 +6,7 @@ categories: [tutorials, sewing, free patterns]
 image: assets/images/post22/cover.png
 squareimage: assets/images/post22/squarecover.png
 description: "Experience the joy of sewing your own chic ruffled off-the-shoulder top with our FREE pattern and beginner-friendly instructions!"
-featured: true
+featured: false
 hidden: false
 rating: 2
 ---
