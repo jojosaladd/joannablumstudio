@@ -23,7 +23,7 @@ Let's get started! Here is the **FREE** pattern & sewing instruction for downloa
 - [Download the sewing instructions](/assets/images/post22/amelia_top_sewing_instructions.pdf){:target="_blank"} 💕
 - [Download the sewing pattern for all sizes (PASSWORD required)](/assets/images/post22/Amelia_Top_Pattern.pdf){:target="_blank"} 💕
 
-The sewing pattern is locked with a **secret password**. Simply subscribe to my blog, and you'll instantly receive the password via email.
+The sewing pattern is locked with a **secret password**. Simply subscribe to my blog, and you'll instantly receive the password via email. Click [HERE](http://eepurl.com/iGsmWA) to subscribe!
 
 ##### 💕 Support Our Work:
 

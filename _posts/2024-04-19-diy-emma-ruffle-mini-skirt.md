@@ -23,7 +23,7 @@ Let's get started! Here is the **FREE** pattern & sewing instruction for downloa
 - [Download the sewing pattern for all sizes (PASSWORD required)](/assets/images/post20/emma_mini_skirt_pattern.pdf){:target="_blank"} 💕
 
 The sewing pattern is locked with a **secret password**. Simply subscribe to my blog, and you'll instantly receive the password via email.
-
+Click [HERE](http://eepurl.com/iGsmWA) to subscribe!
 
 ##### 💕 Learn How to Only Print Your Size:
 
