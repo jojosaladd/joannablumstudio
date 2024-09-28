@@ -91,6 +91,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   kramdown
+  rexml
   rouge
 
 BUNDLED WITH

@@ -6,7 +6,7 @@ categories: [tutorials, sewing, free patterns]
 image: assets/images/post24/cover.png
 squareimage: assets/images/post24/squarecover.png
 description: "Learn how to sew a charming halter apron with flounce details using our FREE pattern and beginner-friendly instructions!"
-featured: true
+featured: false
 hidden: false
 rating: 1.5
 ---
