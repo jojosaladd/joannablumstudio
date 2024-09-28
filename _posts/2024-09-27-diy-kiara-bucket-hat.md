@@ -21,6 +21,10 @@ I'm excited to present a new pattern for this fall: a bucket hat🤠🤠! This i
 
 I hope you enjoy this project!
 
+
+Let's get started! Here is the free pattern for download!
+ - [Download Free Kiara Bucket Hat Pattern]({{ site.baseurl }}/assets/images/post27/Kiara_Bucket_Hat_Pattern.pdf) 💕
+
 #### Patten Piece Inventory:
 
 <img src="{{ site.baseurl }}/assets/images/post27/pattern_inventory.png" alt="pattern_inventory" style="width:550px;">
@@ -28,9 +32,6 @@ I hope you enjoy this project!
 - **A**: Top Circle: Self Cut 1 & Lining Cut 1
 - **B**: Side Panel: Self Cut 2 & Lining Cut 2
 - **C**: Hat Brim: Self Cut 2 & Lining Cut 2
-
-Let's get started! Here is the free pattern for download!
- - [Download Free Melisa Big Bow Tote Bag]({{ site.baseurl }}/assets/images/post27/Kiara_Bucket_Hat_Pattern.pdf) 💕
 
 ## Gather Your Materials:
 - Your choice of self fabric
