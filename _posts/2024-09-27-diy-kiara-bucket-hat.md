@@ -10,6 +10,9 @@ featured: true
 hidden: false
 rating: 2
 ---
+
+DIY your own stylish bucket hat for autumn with this easy-to-follow, beginner-friendly sewing pattern!🤠
+
 Hello everyone!
 
 I apologize for being MIA for so long. As some of you may know, I recently moved from Los Angeles to Upstate New York, and I plan to stay here for the next few years. Moving was tough, and adjusting to a new environment has been quite a challenge—but here we are!
