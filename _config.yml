@@ -1,7 +1,7 @@
 # Site
 name: "Joanna Blüm Studio"
 title: "Joanna Blüm Studio"
-description: "Hello! I'm Joanna, and I design cute and trendy sewing patterns, along with a variety of fashion and crafting-related creations. I also create lots of sewing and craft tutorials.💗 If you're new, check out the free patterns & tutorials to get started!"
+description: "Hello! I'm Joanna, and I design, create patterns, and sew! Currently a grad student researching apparel design and Human-Computer Interaction (HCI) 💗"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
@@ -20,7 +20,7 @@ authors:
     email: joannablumstudio@gmail.com
     web: https://www.joannablumstudio.com
     instagram: https://www.instagram.com/joannablumstudio
-    description: "Hey there! I'm a fashion designer, pattern maker, and tech enthusiast who's all about sewing, crafting, and digital fashion adventures. Let's create something unique together! "
+    description: "Hey there! I'm Joanna, and I love everything pink! 💗"
 
 # Plugins
 plugins:

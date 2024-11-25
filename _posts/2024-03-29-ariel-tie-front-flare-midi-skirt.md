@@ -6,7 +6,7 @@ categories: [tutorials, sewing, free patterns]
 image: assets/images/post17/cover2.png
 squareimage: assets/images/post17/squarecover.png
 description: "Get ready to create your version of the Ariel Tie-Front Flare Midi Skirt with our free sewing pattern and easy-to-follow instructions, perfect for beginners. 💗 "
-featured: true
+featured: false
 hidden: false
 rating: 2
 ---

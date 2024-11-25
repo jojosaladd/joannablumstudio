@@ -48,7 +48,11 @@ comments: true
 
 <p>💕Thank you for your support!💕 Your donation helps me to maintain and improve <a target="_blank" href="https://www.joannablumstudio.com/">Joanna Blüm Studio</a>.</p>
 
-<a target="_blank" href="https://www.buymeacoffee.com/joannablumstudio/" class="btn btn-pink">Buy me a coffee</a>
+<a target="_blank" href="https://www.buymeacoffee.com/joannablumstudio/" class="btn btn-pink">Buy me a coffee</a><br><br>
+
+<h5>Private Policy 🔒 </h5>
+<p>Click <a target="_blank" href="https://www.joannablumstudio.com/privatepolicy">HERE</a> to learn more about our private policy. </p>
+
 
 </div>
 </div>
