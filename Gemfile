@@ -17,6 +17,4 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'kramdown'
     gem 'rouge'
-    gem 'ffi', '~> 1.15.0'
-    gem 'rexml'
 end
