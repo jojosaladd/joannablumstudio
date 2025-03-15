@@ -53,7 +53,9 @@ This style is incredibly versatile and appears in a wide range of garments. It's
 
 #### Conclusion
 
-Learning to draft a Peter Pan collar opens up endless possibilities for adding charm and character to your garments. With the techniques we've covered, you can now create this classic design element and customize it to suit any style – from sweet and vintage-inspired to modern and sophisticated. Remember, practice makes perfect, and don't be afraid to experiment with different sizes, shapes, and fabrics to create your unique variations.
+Yay, you're done! ❤️❤️ That wasn’t so bad, right?  
+
+The slash and spread method is a powerful technique that allows you to control the amount of flare and create a variety of silhouettes. You can also apply this method to add fullness to other patterns, such as pants or tops—the possibilities are endless! I hope this guide helps you in your pattern-making journey.  
 
 Got questions or want to share your Peter Pan collar creations? Feel free to shoot us an email through the [contact form](https://www.joannablumstudio.com/contact/). 
 
