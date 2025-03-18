@@ -6,7 +6,7 @@ categories: [tutorials, sewing, free patterns]
 image: assets/images/post20/cover.png
 squareimage: assets/images/post20/squarecover.png
 description: "Learn how to DIY an adorable ruffle mini skirt using our FREE pattern and beginner-friendly sewing instructions! Available in 9 sizes"
-featured: true
+featured: false
 hidden: false
 rating: 2
 ---
