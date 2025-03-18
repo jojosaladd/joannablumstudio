@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Draft an A-line skirt"
+title: "How to Draft an A-line Skirt"
 author: joanna
 categories: [pattern making, tips, sewing101]
 image: assets/images/post30/cover.png
