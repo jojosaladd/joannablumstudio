@@ -6,7 +6,7 @@ categories: [tutorials, sewing, free patterns]
 image: assets/images/post27/cover.png
 squareimage: assets/images/post27/squarecover.png
 description: "DIY your own stylish bucket hat for autumn with this easy-to-follow, beginner-friendly sewing pattern!"
-featured: true
+featured: false
 hidden: false
 rating: 2
 ---
